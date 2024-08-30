@@ -1,5 +1,4 @@
 # Australian State SVG Icons
 
-Had to make these for a project. 
+Forked from [Australian State SVG Icons by Zucc](https://github.com/zuccs/Australian-State-SVG-Icons)
 
-Should be all neatly minified. 
